@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38" started-at="2022-04-19T20:51:12Z" finished-at="2022-04-19T20:51:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38" started-at="2022-04-19T20:51:12Z" finished-at="2022-04-19T20:51:12Z">
+      <class name="mavenPractice1.Sel2Test">
+        <test-method status="PASS" signature="TestA()[pri:0, instance:mavenPractice1.Sel2Test@78aab498]" name="TestA" duration-ms="14" started-at="2022-04-20T02:21:12Z" finished-at="2022-04-20T02:21:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestA -->
+        <test-method status="PASS" signature="TestB()[pri:0, instance:mavenPractice1.Sel2Test@78aab498]" name="TestB" duration-ms="3" started-at="2022-04-20T02:21:12Z" finished-at="2022-04-20T02:21:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestB -->
+      </class> <!-- mavenPractice1.Sel2Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
