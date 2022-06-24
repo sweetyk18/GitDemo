@@ -16,6 +16,7 @@ System.out.println("changes done by gitdemo guy");
 @Test
 public void Test2()
 {
-System.out.println("Testcase2");	
+System.out.println("Testcase2");
+System.out.println("gitstuff guy");
 }
 }
