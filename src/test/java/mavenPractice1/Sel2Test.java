@@ -10,6 +10,7 @@ public class Sel2Test
 	public void TestA()
 	{
 	System.out.println("TestcaseA");	
+	System.out.println("Testcase by branch tester");
 	}
 	@Test
 	public void TestB()
